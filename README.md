@@ -1,9 +1,9 @@
 ## Sabrina Lopes
 
 **`Desenvolvedora`**
-Olá! Eu sou a Sabrina e minha jornada na tecnologia começou no IFCE, onde concluí o ensino médio junto com o curso técnico em informática. Agora, sigo mergulhando ainda mais nesse universo, cursando Sistemas e Mídias Digitais na UFC. Sempre pronta para novos desafios e descobertas! 💻
+Olá! Eu sou a Sabrina Lopes! 💻
 
-### Linguagens e Tecnologias
+
 <img 
     align="left" 
     alt="JavaScript" 
